@@ -1,0 +1,15 @@
+{
+  "name": "scss-demo",
+  "version": "0.0.1",
+  "description": "Testing out sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "echo \"no test specified\" && exit 0"
+  },
+  "author": "Dinesh Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

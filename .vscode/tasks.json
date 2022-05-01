@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "compile:sass",
+			"path": "Natours/starter/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: compile:sass - Natours/starter",
+			"detail": "node-sass scss/main.scss css/style.css -w"
+		}
+	]
+}
